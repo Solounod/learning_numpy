@@ -116,5 +116,7 @@ array_operation4 = np.array([[5, 6], [7, 8]])
 new_array2 = array_operation3.dot(array_operation4)
 print(new_array2)
 
+#[[19 22]
+# [43 50]]
 
 
