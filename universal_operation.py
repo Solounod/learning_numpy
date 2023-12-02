@@ -8,3 +8,5 @@ print(np.exp(array1_example))#operation exponential
 print(np.sin(array1_example))#operation sin
 print(np.cos(array1_example))#operation cos
 print(np.log(array1_example))#operation log
+
+
